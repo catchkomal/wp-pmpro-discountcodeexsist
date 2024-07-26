@@ -1,2 +1,2 @@
 # wp-pmpro-discountcodeexsist
-check if codes have been used already
+above code will check if discount codes have been used already in used in current members account
